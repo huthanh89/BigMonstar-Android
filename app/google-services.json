@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "1028287159327",
+    "firebase_url": "https://bigmonstar-firebase.firebaseio.com",
+    "project_id": "bigmonstar-firebase",
+    "storage_bucket": "bigmonstar-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028287159327:android:77ad00bd63b54a46",
+        "android_client_info": {
+          "package_name": "com.mathtingz.mathtingz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028287159327-no48epotsn68sckhe28o3tdjbr8qvmp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCelsyZx3OIeCFvkMXAtSm-CcByBM805Go"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-4342286684165248~5200938835"
+    }
+  ],
+  "configuration_version": "1"
+}
