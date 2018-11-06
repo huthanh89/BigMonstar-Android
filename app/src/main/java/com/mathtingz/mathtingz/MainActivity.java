@@ -41,10 +41,10 @@ public class MainActivity extends AppCompatActivity {
         mInterstitialAd = new InterstitialAd(this);
 
         // Real AD Unit.
-  //      mInterstitialAd.setAdUnitId("ca-app-pub-4342286684165248/3776176522");
+        mInterstitialAd.setAdUnitId("ca-app-pub-4342286684165248/3776176522");
 
         // Test AD Unit.
-        mInterstitialAd.setAdUnitId("ca-app-pub-3940256099942544/8691691433");
+        //mInterstitialAd.setAdUnitId("ca-app-pub-3940256099942544/8691691433");
 
         AdRequest adRequest = new AdRequest.Builder().build();
 
